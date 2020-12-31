@@ -7,6 +7,6 @@ I have used the **Table 4.3** of **Chapter 4** from the book [Numerical techniqu
 3) Collocation Method
 4) Least Square Method
 
-This repository contains a csv file of this table.[csv.cem][]
+This repository contains a csv file of this table.(cem.csv)
 
 ![cem_table](https://user-images.githubusercontent.com/31140264/103399326-8da3c600-4b66-11eb-9dea-7cab6f26f479.png)
